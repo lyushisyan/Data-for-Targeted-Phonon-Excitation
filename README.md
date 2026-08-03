@@ -1,6 +1,6 @@
-# Supporting data for Track Phonon 3D
+# Supporting data for targeted phonon excitation
 
-This deposit contains the numerical supporting data used by the analysis and plotting scripts in the associated manuscript. It intentionally excludes the manuscript and figure image files, as requested by the Nature Portfolio submission system.
+This repository contains the numerical supporting data used by the analysis and plotting scripts in the associated manuscript. It intentionally excludes the manuscript and figure image files.
 
 ## Contents
 
@@ -13,7 +13,7 @@ This deposit contains the numerical supporting data used by the analysis and plo
 | `Phonon_Analysis_Internal_Labels.png` | `data/fig_tau_and_cumulative_kappa.csv.gz` |
 | `Phonon_BTE_Tau_Analysis.png` | `data/fig_phonon_properties.csv` |
 
-`code/` contains the analysis/plotting scripts and the dataset-building script. The gzip file is a compressed UTF-8 CSV; all other data files are plain UTF-8 CSV.
+`code/` contains the analysis and plotting scripts. The gzip file is a compressed UTF-8 CSV; all other data files are plain UTF-8 CSV.
 
 ## Notes
 
